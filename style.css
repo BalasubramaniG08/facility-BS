@@ -5,10 +5,6 @@
     text-wrap: pretty;
 }
 
-:root {
-  --primaryColor: #be9c79;
-}
-
 body{
   font-family: "Nunito Sans", serif;
 }
