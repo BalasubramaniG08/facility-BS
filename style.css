@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-wrap: pretty;
+}
+
+:root {
+  --primaryColor: #be9c79;
+}
+
+body{
+  font-family: "Nunito Sans", serif;
+}
+
+h2{
+  font-family: "Merienda", serif;
+}
+
+.h-img{
+  width: 200px;
+}
